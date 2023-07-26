@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sup 👋
 - 🔭 I’m currently working on: Dockyard Elixir curriculum
 - 🌱 I’m currently learning: Elixir
 - 👯 I’m looking to collaborate: Anything that I find interesting
