@@ -13,7 +13,8 @@
 ---
 
 ### 🐦Blog Thing
-[![Run in Livebook](https://livebook.dev/badge/v1/pink.svg)](https://livebook.dev/run?url=https%3A%2F%2Felixir-journey.fly.dev%2F)
+[![Run in Livebook](https://livebook.dev/badge/v1/pink.svg)](https://elixir-journey.fly.dev/)
+
 
 ---
 
