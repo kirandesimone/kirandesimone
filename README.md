@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on: Dockyard Elixir curriculum
+- 🌱 I’m currently learning: Elixir
+- 👯 I’m looking to collaborate: Anything that I find interesting
+- 🤔 I’m looking for help with: ELIXIR
+- 💬 Ask me about: Anything
 <div id="badges">
   <a href="https://www.linkedin.com/in/kirandesimone/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
