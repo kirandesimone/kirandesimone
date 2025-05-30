@@ -1,8 +1,8 @@
 ### Sup 👋
-- 🔭 I’m currently working on: Dockyard Elixir curriculum
-- 🌱 I’m currently learning: Elixir
+- 🔭 I’m currently working on: School
+- 🌱 I’m currently learning: C/C++ game dev
 - 👯 I’m looking to collaborate: Anything that I find interesting
-- 🤔 I’m looking for help with: ELIXIR
+- 🤔 I’m looking for help with: game dev and math
 - 💬 Ask me about: Anything
 <div id="badges">
   <a href="https://www.linkedin.com/in/kirandesimone/">
