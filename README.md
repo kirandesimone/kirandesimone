@@ -10,11 +10,6 @@
   </a>
 </div>
 
----
-
-### 🐦Blog Thing
-[![Run in Livebook](https://livebook.dev/badge/v1/pink.svg)](https://elixir-journey.fly.dev/)
-
 
 ---
 
